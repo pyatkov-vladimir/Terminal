@@ -79,3 +79,7 @@ Hello world!`
 2) Написать скрипт, который автоматически выполнит 3,4,5,6,7,8,13 пункты:
 
 [script](https://github.com/pyatkov-vladimir/Terminal/blob/main/HW1_Terminal_script.sh)
+
+Запустить скрипт 
+
+`#!/bin/bash`
