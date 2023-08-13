@@ -9,10 +9,10 @@
 - the second 2
 - the third 3
 
-`cat > tf_2.txt
+`cat > tf_2.txt`
 the first 1
 the second 2
-the third 3`
+the third 3
 
 `ctrl + c чтобы выйти`
 
